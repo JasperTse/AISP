@@ -7,3 +7,4 @@ scipy
 opencv-python
 pillow
 imageio
+tqdm
